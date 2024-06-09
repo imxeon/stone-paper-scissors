@@ -9,7 +9,7 @@
 ## Overview
 This project is a simple game which is inspired and modified from the project build in the tutorial.
 
-Live site URL: []()
+Live site URL: [https://imxeon.github.io/stone-paper-scissors/](https://imxeon.github.io/stone-paper-scissors/)
 
 ## Acknowledgements
 This project is only possible because of this awesome tutorial by SuperSimpleDev.
